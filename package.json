@@ -1,0 +1,16 @@
+{
+  "name": "website",
+  "homepage": "https://FareedKhan-dev.github.io/Responsive-Portfolio-Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
