@@ -1,7 +1,7 @@
 <div  align="center">
 <img src="https://vectr.com/tmp/aCWeGx2wL/ejAxlrqy9.svg?width=1280&height=1280&select=ejAxlrqy9page0" width="100px">
 
-<h2>Responsive Portfolio Website</h2>
+### Responsive Portfolio Website
 
 <hr style="background-color:black;">
 
