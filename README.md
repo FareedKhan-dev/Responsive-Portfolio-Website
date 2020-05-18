@@ -5,7 +5,8 @@
 <div  align="center">
 <h2>Responsive Portfolio Website</h2>
 </div>
-<hr style="background-color:black;">
+
+<hr>
 
 <p>A simple and clean <strong>Portfolio website for developers</strong>, where then can share their projects along with a link of live preview of their web project</p>
 
